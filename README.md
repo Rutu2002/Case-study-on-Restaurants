@@ -1,1 +1,1 @@
-# Case-study-on-Restaurants
+# Case-study-on-Indian-Restaurants
