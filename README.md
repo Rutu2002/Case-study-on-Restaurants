@@ -1,1 +1,1 @@
-# Case-study-on-Restaurants-using zomato api
+# Case-study-on-Restaurants
